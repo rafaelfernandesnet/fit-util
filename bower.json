@@ -1,0 +1,27 @@
+{
+  "name": "fit-util",
+  "version": "0.0.1",
+  "authors": [
+    "rafaelfernandesnet <rafael.net.ca@gmail.com>"
+  ],
+  "description": "Useful angular services and directives.",
+  "main": "fit-util.js",
+  "keywords": [
+    "angularjs",
+    "math",
+    "service",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/project.git"
+  }
+}
