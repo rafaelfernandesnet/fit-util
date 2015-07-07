@@ -1,0 +1,42 @@
+{
+  "name": "fit-util",
+  "version": "0.0.2",
+  "description": "Useful angular services and directives.",
+  "main": "fit-util.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.37",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-cli": "^0.1.0",
+    "karma-jasmine": "^0.3.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0",
+    "karma-phantomjs-launcher": "^0.2.0",
+    "phantomjs": "^1.9.17"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelfernandesnet/fit-util.git"
+  },
+  "keywords": [
+    "angularjs",
+    "math",
+    "service",
+    "directive"
+  ],
+  "author": "Rafael Fernandes <rafael.net.ca@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelfernandesnet/fit-util/issues"
+  },
+  "homepage": "https://github.com/rafaelfernandesnet/fit-util#readme"
+}
