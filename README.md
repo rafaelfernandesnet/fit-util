@@ -12,7 +12,7 @@ $ npm install fit-util
 ```sh
    <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js"></script>
    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.min.js"></script>
-   <script src="./bower_components/fit-util/dist/util.min.js"></script>
+   <script src="./bower_components/fit-util/dist/fit-util.min.js"></script>
 ```
 
 ## Example
